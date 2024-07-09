@@ -1,7 +1,7 @@
 # patil-demo
 This is my first Git Repository.
 <br>
-author=suraj patil.
+author=suraj (Me) patil.
 <br>
 suraj patil
 
